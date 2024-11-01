@@ -4,13 +4,13 @@ This repository contains Structure Data (SD) and Excel files for drug and bioact
 
 ## Overview
 
-The **High Throughput Research and Screening Center** at [Texas A&M Institute of Biosciences and Technology (IBT)](https://ibt.tamu.edu/) provides access to core libraries that include FDA-approved drugs, investigational agents, and bioactive molecules. These libraries are invaluable resources for the drug discovery process, enabling researchers to screen a wide array of compounds for their biological activity and therapeutic potential.
+The **High Throughput Research and Screening Center** at [Texas A&M Institute of Biosciences and Technology (IBT)](https://ibt.tamu.edu/) provides access to drug libraries that include FDA-approved drugs, investigational agents, and bioactive molecules. Libraries are made available through either screen services or copies can be made for at cost. The untilization of shared small molecule libraries are invaluable resources for the drug discovery process, enabling researchers to screen a wide array of compounds for their biological activity and therapeutic potential. 
 
 ### Important Links
 - [Texas A&M Institute of Biosciences and Technology (IBT)](https://ibt.tamu.edu/)
 - [High Throughput Research and Screening Center](https://ibt.tamu.edu/cores/high-throughput/)
   
-### General Desciption of avavilbe librarie
+### General Desciption
 1. **Approved Drugs**  
    A comprehensive collection of FDA-approved drugs, enabling drug repositioning studies and exploration of therapeutic effects in biological systems.  
    For more information on this library, visit the [Approved Drugs Library page](https://ibt.tamu.edu/cores/high-throughput/core-libraries/approved-drugs.html).
@@ -22,7 +22,6 @@ The **High Throughput Research and Screening Center** at [Texas A&M Institute of
    A wide selection of bioactive compounds known to affect various biological pathways, ideal for phenotypic screening and early-stage target validation.
 
 ## Library Overview Table
-
 | Library Name                                        | Approved | Mechanistic | Status  |Link                                |
 |-----------------------------------------------------|----------|-------------|---------|------------------------------------|
 | Broad 2017                                          | Yes      | Yes         | Retired |[SDF](data/SDF/Broad_2017.sdf) / [XLSX](data/XLSX/Broad_2017.xlsx) |
