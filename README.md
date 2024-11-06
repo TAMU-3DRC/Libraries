@@ -1,4 +1,4 @@
-# Gulf Coast Consortia Drug Discovery Resource Center Physical Drug Library
+# Gulf Coast Consortia Drug Discovery and Development Resource Center (GCC-3DRC) Physical Drug Library
 
 This repository contains Structure Data (SD) and Excel files for drug and bioactive compound libraries offered by the Gulf Coast Consortia's Drug Discovery Resource Center. These SD files serve as a digital archive of molecular structures, annotations, and properties for various libraries have been offered in high-throughput screening and drug discovery. The repository aims to support researchers with easily accessible chemical metadata for screens that have been perfromed by this core .
 
