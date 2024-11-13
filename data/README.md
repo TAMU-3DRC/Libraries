@@ -1,4 +1,4 @@
-# GCC-3DRC Libraries
+# GCC Chemical Genomics Libraries
 
 ## Combinatorial Drug Discovery Program Libraries
 
@@ -89,4 +89,24 @@
 ### TargetMol Ion Channel Inhibitor Library_2019
 - **Number of Compounds**: 362
 - **Description**: The Ion Channel Inhibitor Library by TargetMol contains 362 compounds targeting ion channels, which play fundamental roles in cell communication and human physiology. This library is useful for ion channel research and drug discovery. Compounds are present at 10 mM in DMSO.
+
+### TargetMol Natural Compound Library_2019
+- **Number of Compounds**: 1,680
+- **Description**: The Natural Compound Library by TargetMol contains 1,680 natural products with known bioactivity. Natural products are a successful source of new drugs, and this library is useful for drug discovery, pharmacological studies, and stem cell differentiation. Compounds are present at 10 mM in DMSO.
+
+### Microsource Spectrum Collection_2012
+- **Number of Compounds**: 2,000
+- **Description**: The Microsource Spectrum Collection consists of the US Drug Collection, NatProd Collection, and Killer Collection. The US Drug Collection contains 1,040 drugs that have reached clinical trials in the USA. The NatProd Collection includes 800 pure natural products, while the Killer Collection comprises 160 synthetic and natural toxic substances used as reference compounds. Compounds are present at 10 mM in DMSO.
+
+### National Cancer Institute_2016
+- **Number of Compounds**: 2,782
+- **Description**: The National Cancer Institute Collection includes the Mechanistic Set VI, Diversity Set VII, and Natural Products Set V. These sets were derived to represent a broad range of growth inhibition patterns in tumor cell screens and diverse pharmacophores. Compounds are present at 10 mM in DMSO.
+
+### TargetMol Bioactive Compound Library_2019
+- **Number of Compounds**: 5,370
+- **Description**: The Bioactive Compound Library by TargetMol contains more than 5,370 small molecule compounds with known biological activities, including clinical, preclinical, and approved drug compounds. This library is useful for drug repurposing, target identification, and stem cell differentiation studies. Compounds are present at 10 mM in DMSO.
+
+### Maybridge HitFinder Collection_2012
+- **Number of Compounds**: 14,400
+- **Description**: The HitFinder Collection by Maybridge maintains the structural diversity of the Maybridge Screening Collection. This collection is useful for high throughput discovery, providing rapid access to structurally diverse hit compounds. Compounds are present at 10 mM in DMSO.
 
